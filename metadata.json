@@ -1,0 +1,8 @@
+{
+  "name": "ExploreVN - Smart Vietnam Travel Guide",
+  "description": "An all-in-one AI-powered platform for planning trips to Vietnam, featuring interactive maps, budget calculators, and multi-lingual audio guides.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
